@@ -1,0 +1,26 @@
+*Logo del sitio
+Background hecho por distintos juegos como LOL DOTA2 HOTS
+*Nombre del Sitio
+BatleGround Events
+------Battleground Tournament------
+------BG Tournament------
+------EL campo de natalla te espera, destroza a tus amigos.
+****Interfaces (FrontEnd)
+1.registro usuarios como pop up---------Johan
+2.registro de eventos como popups-------Johan
+3.registro de equipos-------------------Ricardo
+4.Menu principal:publicidad buscador listas menu background noticias de eventos copyright-------jun
+5.Perfil de usuario: con estadisticas historial logros------------------------------------------jun
+6.perfil de evento: nombre de evento, estadisticas lista de equipos fecha de evento fotos-------Ricardo
+7.roster (perfil) de equipo: historial estadisticas integrantes---------------------------------Ricardo
+
+*****Actores
+1.- superadmin
+2.- admin de eventoel que pide el servicio podra tener un historial de eventos
+3.-  usuario team el que registra al equipo podra tener un historial de eventos
+4.- usuario persona el que se une a un equipo y vee los torneos
+
+*****Base de Datos
+distribuida
+********Repositorio Github
+https://github.com/Rickbel/BGTournament
